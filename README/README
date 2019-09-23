@@ -6,10 +6,7 @@ A Pomodoro Time made with React Native!
 - Show time with slider/numbers
 - Alarm with time's up
 
-
-Need to add the node_modules before use!
-
-Instructions(on MAC):
+Instruction(on MAC):
 
 1. Download files. 
 2. Open terminal, go to project directory
@@ -20,5 +17,7 @@ Instructions(on MAC):
 
 
 ![Display](../README/Screenshot1.jpeg)
-![Display](Screenshot2.jpeg)
+
+![Display](/Screenshot2.jpeg)
+
 ![Display](Screenshot3.jpeg)
