@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "simple pomodoro timer",
+    "description": "This is a simple and cute pomodoro timer to pace your studying and working",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "WenXinpomodoroTimer"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+  }
+}
